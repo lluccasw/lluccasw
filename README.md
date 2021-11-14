@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucas Wittmann @lluccasw on Github
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently a student and working as a Data Analyst in the Marketing Industry
