@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Lucas Wittmann @lluccasw on Github
-- 👀 I’m currently a Master student for Data Science @FAU
-- 🌱 Also I'm working as a Data Analyst working student in the Marketing Industry
+- 👀 I’m currently working as a Data Analyst @N-Ergie
